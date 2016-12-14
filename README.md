@@ -1,4 +1,4 @@
-# PayPal Donate Button[
+# PayPal Donate Button
 
 
 Donate button with similar layout to Google Play and F-Droid
